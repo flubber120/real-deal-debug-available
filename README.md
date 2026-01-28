@@ -6,4 +6,4 @@ This will help out!
 
 
 
-(Pizza Tower & XDelta Patcher is required.)
+(Use the XDelta Patcher provided in the file "xdeltapatcher.zip"!)

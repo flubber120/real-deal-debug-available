@@ -6,4 +6,4 @@ This will help out!
 
 
 
-(Pizza Tower is required.)
+(Pizza Tower & XDelta Patcher is required.)
